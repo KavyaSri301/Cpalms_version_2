@@ -46,7 +46,3 @@ pyodbc==5.1.0
 # Tokenization (OpenAI)
 tiktoken==0.7.0
 
-###curl -X POST http://localhost:8000/chat \
-###  -H "X-API-Key: sk_client_001_7f8a9b2c3d4e5f6a" \
-###  -H "Content-Type: application/json" \
-### -d '{"resource_id": "123", "Session_ID": "test", "User_ID": "user1", "query": "test"}'
