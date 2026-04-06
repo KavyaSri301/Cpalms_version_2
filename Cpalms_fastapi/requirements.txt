@@ -1,0 +1,52 @@
+# Core libraries
+streamlit==1.35.0
+openai==1.78.1
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+pdfplumber==0.11.6
+
+# Azure OpenAI / Azure SDK
+azure-core==1.33.0
+azure-identity==1.21.0
+azure-common==1.1.28
+azure-storage-blob==12.19.1
+
+# Optional: Azure Cognitive Search
+azure-search-documents==11.5.2
+
+# Web server / API
+fastapi==0.110.3
+uvicorn==0.29.0
+gunicorn==21.2.0
+
+# Testing
+requests==2.31.0
+pandas==2.2.0
+openpyxl==3.1.2
+
+# Async & dependencies
+anyio==4.9.0
+annotated-types==0.7.0
+attrs==25.3.0
+nest-asyncio==1.6.0
+
+# Formatting / parsing
+beautifulsoup4==4.12.3
+
+# Validation / fuzzy matching
+rapidfuzz==3.9.1
+
+# PDF & document generation
+python-docx==1.1.2
+reportlab==4.2.0
+
+# Database
+pyodbc==5.1.0
+
+# Tokenization (OpenAI)
+tiktoken==0.7.0
+
+###curl -X POST http://localhost:8000/chat \
+###  -H "X-API-Key: sk_client_001_7f8a9b2c3d4e5f6a" \
+###  -H "Content-Type: application/json" \
+### -d '{"resource_id": "123", "Session_ID": "test", "User_ID": "user1", "query": "test"}'

@@ -1,0 +1,241 @@
+[
+
+  {
+    "field": "id",
+    "description": "A unique identifier assigned to the resource which is ResourceId, for internal tracking and reference within CPALMS."
+  },
+  {
+    "field": "BenchmarkCodes",
+    "description": "A list of Florida B.E.S.T. Math (or other subject) benchmarks associated with the resource. These benchmarks outline specific standards the resource aligns with."
+  },
+  {
+    "field": "Benchmark_Description",
+    "description": "Detailed descriptions of the benchmarks linked to the resource, specifying the skill or concept being taught along with relevant Benchmark IDs."
+  },
+  {
+    "field": "Title",
+    "description": "The name or title of the resource, providing a brief descriptor of its content or activity."
+  },
+  {
+    "field": "Description",
+    "description": "A brief summary or overview of the resource’s content or purpose. This helps educators understand what the resource provides and how it supports learning."
+  },
+  {
+    "field": "PrimaryICT",
+    "description": "The primary form of information and communication technology (ICT) used in the resource. For example, this could refer to worksheets, apps, or other digital tools."
+  },
+  {
+    "field": "SpecialMaterialsNeeded",
+    "description": "Any special materials or tools required to use the resource effectively. This field may be left null if no special materials are needed."
+  },
+  {
+    "field": "Files",
+    "description": "Links to any downloadable resources or files related to the lesson or activity. In this case, it refers to a downloadable 'double ten frame' worksheet."
+  },
+  {
+    "field": "BenchmarkIds",
+    "description": "A list of unique Benchmark IDs related to the resource. These are used to cross-reference the resource with specific Florida B.E.S.T. benchmarks."
+  },
+  {
+    "field": "GradeLevelNames",
+    "description": "The grade levels for which the resource is designed, indicating the intended age group or academic stage (e.g., K for kindergarten, 1 for first grade)."
+  },
+  {
+    "field": "SubjectAreaNames",
+    "description": "The subject area(s) associated with the resource, such as Mathematics, Science, Social Studies, etc."
+  },
+  {
+    "field": "IntendedAudienceNames",
+    "description": "The primary audience for the resource, such as 'Educators,' 'Students,' or specific groups like 'Parents' or 'Administrators.'"
+  },
+  {
+    "field": "ResourceUrl",
+    "description": "The URL where the resource can be accessed or previewed on the CPALMS website. This link allows educators to view or download the resource directly."
+  },
+  {
+    "field": "PublishedDate",
+    "description": "The date and time when the resource was published on CPALMS. This helps track when the resource became available to educators."
+  },
+  {
+    "field": "ResourceTypeId",
+    "description": "An identifier for the type of resource (e.g., lesson plan, activity, worksheet). Each resource type is associated with a unique ID."
+  },
+  {
+    "field": "PrimaryResourceICTId",
+    "description": "An identifier for the primary ICT (Information and Communication Technology) resource type, linked to the resource. This helps classify the technology or media used."
+  },
+  {
+    "field": "Accomodation",
+    "description": "Information about any accommodations provided for students with special learning needs. This field may be left null if accommodations are not specified."
+  },
+  {
+    "field": "Extensions",
+    "description": "Opportunities or suggestions for extending the learning, such as advanced activities, additional resources, or ways to adapt the lesson for different learning needs."
+  },
+  {
+    "field": "FurtherRecommendations",
+    "description": "Additional recommendations for educators on how to best implement the resource in the classroom, or suggestions for related activities or follow-up lessons."
+  },
+  {
+    "field": "Learning Objectives",
+    "description": "Clearly defined educational goals or targets that outline what students should know and be able to do by the end of the lesson."
+  },
+  {
+    "field": "Reading Passage 2",
+    "description": "A secondary reading passage used in the lesson to support comprehension or provide additional context to the lesson's main topic."
+  },
+  {
+    "field": "Guiding Questions",
+    "description": "Questions posed by the teacher to direct student focus, provoke thought, and guide them through the key concepts of the lesson."
+  },
+  {
+    "field": "Reading Passage 1",
+    "description": "The primary reading passage assigned for the lesson to help students engage with the content and stimulate discussion."
+  },
+  {
+    "field": "Prior Knowledge",
+    "description": "The foundational information or concepts that students should already know before beginning the lesson in order to understand the new content."
+  },
+  {
+    "field": "Closure",
+    "description": "The concluding part of the lesson where the teacher helps students synthesize the information learned, check for understanding, and link it to future lessons or activities."
+  },
+  {
+    "field": "Teaching Phase",
+    "description": "The segment of the lesson where the teacher delivers the content, explains the concepts, and models tasks or strategies for students."
+  },
+  {
+    "field": "Readiness Questions",
+    "description": "Questions designed to assess if students are prepared to engage with the lesson's content, ensuring they have the necessary prior knowledge."
+  },
+  {
+    "field": "Guided Practice",
+    "description": "Activities or exercises in which the teacher provides support and guidance while students begin to practice the new skills or concepts."
+  },
+  {
+    "field": "Elaborate",
+    "description": "An opportunity for students to apply and expand on their understanding by solving more complex problems or creating real-world connections."
+  },
+    {
+    "field": "Independent Practice",
+    "description": "Activities or exercises that allow students to work on their own to reinforce and apply what they’ve learned during the lesson."
+  },
+  {
+    "field": "Reflection Questions 2",
+    "description": "Questions that encourage students to reflect on their learning, helping them make connections and evaluate their understanding of the material."
+  },
+  {
+    "field": "Engage",
+    "description": "The opening activity or event designed to capture students' attention, spark curiosity, and introduce them to the lesson’s topic or concept."
+  },
+  {
+    "field": "Explore",
+    "description": "Activities where students actively investigate the lesson’s concepts through hands-on tasks or collaborative work."
+  },
+  {
+    "field": "Explain",
+    "description": "The phase where the teacher clarifies the concepts, provides direct instruction, and ensures students understand the key ideas being taught."
+  },
+  {
+    "field": "Introduction",
+    "description": "The beginning of the lesson where the teacher sets the stage, introduces the topic, and outlines what will be learned."
+  },
+  {
+    "field": "Investigate",
+    "description": "Opportunities for students to explore the content further through experiments, problem-solving, or inquiry-based activities."
+  },
+  {
+    "field": "Analyze",
+    "description": "Activities or discussions where students break down information, identify patterns, or critically assess the content they are learning."
+  },
+  {
+    "field": "Letter Template 1",
+    "description": "A specific template or format for writing a letter as part of the lesson’s task or communication activity."
+  },
+  {
+    "field": "Data Set 1",
+    "description": "A collection of data provided for analysis or interpretation during the lesson, typically used in experiments or research tasks."
+  },
+  {
+    "field": "Data Set 2",
+    "description": "Another set of data that may be used in the lesson for comparison, contrast, or further analysis to deepen student understanding."
+  },
+   {
+    "field": "Formative Assessment",
+    "description": "Ongoing assessments that occur during the lesson to monitor students' understanding and guide future instruction."
+  },
+  {
+    "field": "Guiding/Reflective Questions",
+    "description": "Questions that help guide students' thinking and reflection during or after the lesson to deepen their understanding of the material."
+  },
+  {
+    "field": "Letter Template 2",
+    "description": "A second letter template used for communication activities or to structure students' written tasks during the lesson."
+  },
+  {
+    "field": "Additional Instructions or Materials",
+    "description": "Any extra instructions or materials needed to support the lesson or enhance the learning experience for students."
+  },
+  {
+    "field": "Instructional Suggestions",
+    "description": "Suggestions for the teacher on how to approach the lesson, including strategies for managing the classroom and supporting diverse learners."
+  },
+  {
+    "field": "Comprehension/Readiness Questions",
+    "description": "Questions designed to assess students' prior knowledge and readiness for the new lesson content."
+  },
+  {
+    "field": "Supplemental Reading",
+    "description": "Additional reading materials or resources provided to reinforce or extend the lesson's content."
+  },
+  {
+    "field": "Feedback to Students",
+    "description": "Specific feedback given to students on their work, responses, or progress to help them improve and reflect on their learning."
+  },
+  {
+    "field": "Summative Assessment",
+    "description": "An evaluation or assessment at the end of the lesson or unit to gauge the students' overall understanding and mastery of the material."
+  },
+  {
+    "field": "Florida's B.E.S.T. Benchmark Alignment Notes",
+    "description": "Notes that align the lesson with the Florida B.E.S.T. (Benchmarks for Excellent Student Thinking) standards to ensure the content meets state educational requirements."
+  },
+  {
+    "field": "Predict",
+    "description": "An activity where students make predictions based on prior knowledge or observations, helping to engage them in the lesson."
+  },
+  {
+    "field": "Observe",
+    "description": "An activity or phase where students observe phenomena, experiments, or examples to gather data or insights related to the lesson's concept."
+  },
+  {
+    "field": "Procedure",
+    "description": "A step-by-step outline of the actions students will take to complete a task, experiment, or learning activity."
+  },
+  {
+    "field": "Teacher Notes",
+    "description": "Notes or tips for the teacher, often related to managing the lesson, addressing student needs, or extending the content."
+  },
+  {
+    "field": "Optional",
+    "description": "Activities, materials, or components that are not essential but can be used if time permits or to enrich the lesson."
+  },
+    {
+    "field": "(Optional) Universal Design for Learning (UDL)",
+    "description": "Strategies and methods used to ensure that all students, including those with diverse learning needs, can access, engage with, and demonstrate understanding of the lesson's content."
+  },
+  {
+    "field": "CTE Course Info and Benchmark Notes",
+    "description": "Information related to Career and Technical Education (CTE) courses, including course objectives, relevant benchmarks, and any additional instructional or assessment guidelines."
+  },
+  {
+    "field": "Career Connection",
+    "description": "Activities or discussions that link lesson content to real-world career applications, helping students see the relevance of the material in various professions."
+  },
+  {
+    "field": "Unit Outline",
+    "description": "An outline that provides an overview of the unit's structure, including major topics, learning objectives, and how the lesson fits into the broader unit context."
+  }
+
+
+]

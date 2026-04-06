@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "CONTAINER_NAME": "protected",
+    "STAGING_CONTAINER_NAME": "stagingblob",
+    "AZURE_SQL_SERVER": "cpalmsai",
+    "AZURE_SQL_DATABASE": "CpalmsAI",
+    "AZURE_SQL_USERNAME": "cpalmsadmin",
+    "AZURE_SQL_PASSWORD": "dbP@$$w0rd3",
+    "AZURE_STORAGE_RESOURCE_ID" : "/subscriptions/b2045251-4254-4825-bb64-d70b8f344b0e/resourceGroups/AI_Pilot/providers/Microsoft.Storage/storageAccounts/cpalmsaifiles",
+    "AZURE_SEARCH_ENDPOINT": "https://cpalmsprojectaisearch.search.windows.net",
+    "AZURE_SEARCH_INDEX_NAME_1": "lessonplan-json-final",
+    "AZURE_SEARCH_INDEX_NAME_2": "final-blob-attachments",
+    "AZURE_OPENAI_ENDPOINT": "https://cpalmsopenaiservice.openai.azure.com/",
+    "AZURE_OPENAI_API_VERSION": "2024-02-01",
+    "AZURE_OPENAI_EMBEDDING_DEPLOYMENT": "text-embedding-3-large",
+    "AZURE_MODEL_NAME": "text-embedding-3-large",
+    "AZURE_STORAGE_ACCOUNT_URL": "https://cpalmsaifiles.blob.core.windows.net",
+    "COGNITIVE_SERVICES_URL": "https://cplamsaiservices.cognitiveservices.azure.com/"
+  }
+}

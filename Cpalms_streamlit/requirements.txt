@@ -1,0 +1,39 @@
+# Core libraries
+streamlit==1.35.0
+openai==1.78.1
+PyPDF2==3.0.1
+python-dotenv==1.0.1
+pdfplumber==0.11.6
+
+# Azure OpenAI support
+azure-core==1.33.0
+azure-identity==1.21.0
+azure-common==1.1.28
+
+# Optional: Azure Cognitive Search 
+azure-search-documents==11.5.2
+azure-identity>=1.15.0
+
+# Web server for FastAPI (optional if you're using FastAPI)
+uvicorn==0.29.0
+
+# Dependencies
+anyio==4.9.0
+annotated-types==0.7.0
+attrs==25.3.0
+nest_asyncio
+azure-storage-blob
+
+#for formatting the data
+beautifulsoup4
+
+#for validation
+rapidfuzz>=3.0.0
+
+#for pdf and documents
+python-docx
+reportlab
+
+FastAPI
+pyodbc
+tiktoken
